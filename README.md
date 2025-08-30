@@ -73,13 +73,13 @@ npm run start
 
 ## 📋 Características Implementadas
 
-✅ API REST completa con operaciones CRUD
-✅ Validaciones de entrada robustas
-✅ Autenticación JWT con protección de endpoints
-✅ Documentación Swagger/OpenAPI automática
-✅ Paginación de resultados
-✅ Búsqueda por nombre y filtro por categoría
-✅ Manejo de errores estructurado
+- API REST completa con operaciones CRUD
+- Validaciones de entrada robustas
+- Autenticación JWT con protección de endpoints
+- Documentación Swagger/OpenAPI automática
+- Paginación de resultados
+- Búsqueda por nombre y filtro por categoría
+- Manejo de errores estructurado
 
 ### API Endpoints
 #### Autenticación
